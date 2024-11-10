@@ -1,3 +1,3 @@
-F1 = open("C:\\Users\\raghi\\OneDrive\\Desktop\\coding\\python\\kabir\\Graphic 3.py")
+F1 = open("C:\\Users\\arman\\Downloads\\thirty four.py","r")
 TEXT = F1.read()
 print(TEXT)
