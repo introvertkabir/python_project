@@ -1,2 +1,4 @@
 # python_project
-WELCOME TO MY PROJECT GYS
+File Reader/Writer
+
+Task: Create basic file handling functions, such as read_file and write_file.
